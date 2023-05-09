@@ -1,7 +1,7 @@
 ### Hey there! I'm Tuan 👋
 
 <p align="center">
-    <a href="[https://twitter.com/javico_glez](https://twitter.com/HimatoKatsuya)"><img src="https://img.shields.io/badge/-Twitter-2D2B55?style=flat-square&logo=twitter&logoColor=white"/></a>
+    <a href="https://twitter.com/HimatoKatsuya"><img src="https://img.shields.io/badge/-Twitter-2D2B55?style=flat-square&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/tuan-huynh-0187b8141/"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
